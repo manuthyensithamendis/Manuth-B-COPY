@@ -1,7 +1,7 @@
 {
   "name": "YASIYA-MD",
-  "description": "Yasiya-MD is a powerful and user-friendly WhatsApp multi-device bot built with Baileys. 🤖",
-  "logo": "https://raw.githubusercontent.com/DarkYasiyaNew/DARKYASIYA-DATABASE/main/MEDIA/IMAGE/yasiya-md.jpg",
+  "description": "NOVA-MD is a powerful and user-friendly WhatsApp multi-device bot built with Baileys. 🤖",
+  "logo": "https://schedule.wttw.com/ulphoto/wttw_1696882621.jpg",
   "keywords": ["whatsapp user bot", "user bot", "nodejs", "bot", "whatsapp bot", "multi device", "yasiya-md"],
   "success_url": "/",
   "env": {
